@@ -1,0 +1,20 @@
+{
+    "end": "2025-07-29 08:36:11",
+    "dataBytes": 35,
+    "tableDataBytes": {
+        "recipes": {
+            "ratings": 7,
+            "recipes": 28
+        }
+    },
+    "tableRows": {
+        "recipes": {
+            "ratings": 1,
+            "recipes": 1
+        }
+    },
+    "chunkFileBytes": {
+        "recipes@ratings@@0.tsv.zst": 7,
+        "recipes@recipes@@0.tsv.zst": 28
+    }
+}
